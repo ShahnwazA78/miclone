@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miclone/static/css/main.d9fccb27.chunk.css",
+    "main.js": "/miclone/static/js/main.dd342f8a.chunk.js",
+    "main.js.map": "/miclone/static/js/main.dd342f8a.chunk.js.map",
+    "runtime-main.js": "/miclone/static/js/runtime-main.2068c310.js",
+    "runtime-main.js.map": "/miclone/static/js/runtime-main.2068c310.js.map",
+    "static/css/2.4c34b247.chunk.css": "/miclone/static/css/2.4c34b247.chunk.css",
+    "static/js/2.73061672.chunk.js": "/miclone/static/js/2.73061672.chunk.js",
+    "static/js/2.73061672.chunk.js.map": "/miclone/static/js/2.73061672.chunk.js.map",
+    "index.html": "/miclone/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "/miclone/static/css/2.4c34b247.chunk.css.map",
+    "static/css/main.d9fccb27.chunk.css.map": "/miclone/static/css/main.d9fccb27.chunk.css.map",
+    "static/js/2.73061672.chunk.js.LICENSE.txt": "/miclone/static/js/2.73061672.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2068c310.js",
+    "static/css/2.4c34b247.chunk.css",
+    "static/js/2.73061672.chunk.js",
+    "static/css/main.d9fccb27.chunk.css",
+    "static/js/main.dd342f8a.chunk.js"
+  ]
+}
