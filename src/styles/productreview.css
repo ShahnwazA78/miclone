@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.productreview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.productreview > div {
+  margin-left: 10px;
+  transition: all 0.2s;
+}
+.productreview > div:hover {
+  transform: translateY(-0.4vmax);
+  box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.418);
+}
+.productreview > div > :last-child {
+  padding: 19px;
+}
+.productreview p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+
+.productreview span {
+  margin-right: 40px;
+}
+.productreview span:last-child {
+  color: orangered;
+  font-weight: 700;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

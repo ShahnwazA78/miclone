@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.HotAccessoriesMenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HotAcceoriesLink {
+  margin: 1vmax;
+  color: rgba(94, 94, 94);
+  padding:0.5vmax 0;
+  transition: all 0.2s;
+}
+.HotAcceoriesLink:hover {
+  text-decoration: none;
+  color: orangered;
+  border-bottom: 1px solid orangered;
+}

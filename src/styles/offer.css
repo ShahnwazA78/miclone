@@ -1,0 +1,19 @@
+.offerSections {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  /* flex-wrap: wrap; */
+  height: 40vh;
+}
+.item {
+  margin: 10px;
+  transition: all 0.2s;
+}
+.item:hover {
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.397);
+  transform: scale(1.01);
+}
+.item img {
+  width: 27rem;
+}

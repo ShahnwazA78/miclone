@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.section-main {
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+.line {
+  width: 30vmax;
+  height: 1px;
+  background-color:rgba(39, 39, 39, 0.27);
+}
+.title{
+    margin:3vmax;
+  font: 100 2vmax sans-serif;
+  color:rgba(77, 77, 77)
+
+}

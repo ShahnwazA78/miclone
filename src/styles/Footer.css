@@ -1,0 +1,61 @@
+.footer {
+  background-color: rgb(33, 33, 33);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 2fr;
+  padding: 4.5vmax;
+  color: rgb(197, 197, 197);
+}
+
+.footer > div {
+  margin: 1vmax;
+  display: flex;
+  flex-direction: column;
+}
+.footer > div:nth-child(2) {
+  display: block;
+}
+.footer > div:nth-child(2) > a {
+  display: inline-block;
+}
+
+.footer > div > a {
+  color: rgb(197, 197, 197);
+  font-size: 1vmax;
+  text-decoration: none;
+  margin: 0.6vmax 0;
+}
+.footer > div > a:hover {
+  color: white;
+}
+
+.footer > div:last-child > div {
+  width: 45%;
+  margin: 1vmax 0;
+  font-size: 0.8vmax;
+}
+.footer > div:last-child > button {
+  background: transparent;
+  width: 45%;
+  font-size: 1vmax;
+  color: white;
+  padding: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.599);
+  transition: all 0.3s;
+}
+.footer > div:last-child > button:hover {
+  background-color: white;
+  color: black;
+}
+
+.footerBorder{
+    background-color: rgb(33, 33, 33);
+    color:white
+}
+.footerBorder>div{
+    border-top: 1px solid rgba(197, 197, 197, 0.195);
+    color: rgb(197, 197, 197);
+    width: 90vmax;
+    margin: auto;
+    padding:2vmax
+
+}
